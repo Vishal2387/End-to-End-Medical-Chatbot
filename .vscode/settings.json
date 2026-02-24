@@ -1,3 +1,5 @@
 {
-    "typescript.tsserver.web.projectWideIntellisense.enabled": true
+    "typescript.tsserver.web.projectWideIntellisense.enabled": true,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
